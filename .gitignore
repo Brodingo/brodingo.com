@@ -1,0 +1,7 @@
+*.htaccess*
+*.shtml
+500.php
+php.ini*
+robots.txt
+img/
+docs/
